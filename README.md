@@ -7,15 +7,13 @@ Aquí encontrarás el código utilizado en uno de los videos del proyecto **Code
 
 Si te interesa aprender más sobre estos temas y apoyar el contenido, no olvides seguirnos en nuestras redes sociales:
 - ▶️ **[YouTube](https://www.youtube.com/channel/UCc6iP4H2xYFXYGkSx9Xtmig)**
-- 📘 **Facebook**
-- 📸 **Instagram**
-- 🎵 **TikTok**
+- 🎵 **[TikTok](https://www.tiktok.com/@code.dog?_r=1&_t=ZS-93R2fwIZ9rI)**
 
 ¡Gracias por visitar el repositorio y feliz programación! 🚀🐾
 
 
 # 🧬 Algoritmos Genéticos con Python
-Este repositorio contiene el codigo usado en el video [YYY](AlgGen.py), en el cual se explica detalladamente el funcionamiento de los algoritmos geneticos de variable real, se realiza un implementación con python y se realizan algunos experimentos.
+Este repositorio contiene el codigo usado en el video [La Técnica Que Optimiza Cualquier Problema: Algoritmos Genéticos En Python](https://youtu.be/y_8kiSQ7aAY), en el cual se explica detalladamente el funcionamiento de los algoritmos geneticos de variable real, se realiza un implementación con python y se realizan algunos experimentos.
 
 ![miniatura](miniatura.jpg)
 
